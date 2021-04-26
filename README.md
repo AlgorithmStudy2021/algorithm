@@ -1,9 +1,6 @@
 algorithm
 ===========
 
-programmers
-
-
 ## 주요목표
 * Programmers Level 2
 
