@@ -5,7 +5,7 @@ programmers
 
 
 ## 주요목표
-* Level 2
+* Programmers Level 2
 
 ## Language
 * java
