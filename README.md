@@ -31,6 +31,10 @@
 |   | [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.05.03~2021.05.09(5%EC%A3%BC%EC%B0%A8)/%EB%8D%94%EB%A7%B5%EA%B2%8C) |
 |   | [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.05.03~2021.05.09(5%EC%A3%BC%EC%B0%A8)/%ED%81%B0%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0) |
 |   | [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.05.03~2021.05.09(5%EC%A3%BC%EC%B0%A8)/%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8) |
+| **6** (21.5.10~5.16) | [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065) | [풀이]() |
+|   | [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) | [풀이]() |
+|   | [예상 대진표](https://programmers.co.kr/learn/courses/30/lessons/12985) | [풀이]() |
+|   | [게임 맵 최단거리](https://programmers.co.kr/learn/courses/30/lessons/1844) | [풀이]() |
 
 ### 풀이 여부 체크
 | 문제                                              | bsc1154 | ggongchi765 | hhee00 | Jae-eun | DongheePaul | tildev |
@@ -55,4 +59,8 @@
 | 더 맵게 ||✅|✅|🙅‍♀️|||
 | 큰 수 만들기 ||✅|🙅‍|✅|||
 | 구명보트 ||✅|✅|🙅‍♀️|||
+| 튜플 |||||||
+| 타겟 넘버 |||||||
+| 예상 대진표 |||||||
+| 게임 맵 최단거리 ||||🙅‍♀️|||
 
