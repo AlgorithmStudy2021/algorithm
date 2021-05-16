@@ -5,7 +5,7 @@ class Solution {
         String [] strs = s.replaceAll("[{}]", " ").trim().split(" ,");
         answer = new int[strs.length];
         HashSet<Integer> hs = new HashSet<Integer>();
-        Arrays.sort(strs, (a,b)->(a.length()-b.length()));//strs의 두개의 변수길이를 빼어 +이면 짤은거부터 긴거 순으로
+        Arrays.sort(strs, (a,b)->(a.length()-b.length()));//strs의 두개의 변수길이를 빼어 +이면 짤은거부터 긴거 순으로 java comparator
         int i = 0;
         for(String str : strs){
             for(String st : str.split(",")){//input 배열안의 해당요소의 각 숫자로 분리
