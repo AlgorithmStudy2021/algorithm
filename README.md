@@ -40,8 +40,6 @@
 |   | [n개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.05.16~2021.05.20(7%EC%A3%BC%EC%B0%A8)/n%EA%B0%9C%EC%9D%98%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98) |
 |   | [jadencase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.05.16~2021.05.20(7%EC%A3%BC%EC%B0%A8)/jadencase%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0) |
 |   | [쿼드 압축 후 개수 세기](https://programmers.co.kr/learn/courses/30/lessons/68936) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.05.16~2021.05.20(7%EC%A3%BC%EC%B0%A8)/%EC%BF%BC%EB%93%9C%20%EC%95%95%EC%B6%95%ED%9B%84%20%EA%B0%9C%EC%88%98%EC%84%B8%EA%B8%B0) |
-
-
 | **8** (21.5.10~5.16) | [순위검색](https://programmers.co.kr/learn/courses/30/lessons/72412) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.05.16~2021.05.20(7%EC%A3%BC%EC%B0%A8)/%ED%96%89%EB%A0%AC%EC%9D%98%20%EA%B3%B1%EC%85%88) |
 |   | [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.05.16~2021.05.20(7%EC%A3%BC%EC%B0%A8)/n%EA%B0%9C%EC%9D%98%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98) |
 |   | [행렬테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.05.16~2021.05.20(7%EC%A3%BC%EC%B0%A8)/jadencase%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0) |
