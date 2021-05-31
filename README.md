@@ -44,6 +44,11 @@
 |   | [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.05.20~2021.05.27(8%EC%A3%BC%EC%B0%A8)/%EC%A7%9D%EC%A7%80%EC%96%B4%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0) |
 |   | [행렬테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.05.20~2021.05.27(8%EC%A3%BC%EC%B0%A8)/%ED%96%89%EB%A0%AC%ED%85%8C%EB%91%90%EB%A6%AC%20%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0) |
 |   | [피보나치수](https://programmers.co.kr/learn/courses/30/lessons/12945) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.05.20~2021.05.27(8%EC%A3%BC%EC%B0%A8)/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98) |
+| **9** (21.5.28~6.6) | [뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) | [풀이]() |
+|   | [단체사진 찍기](https://programmers.co.kr/learn/courses/30/lessons/1835) | [풀이]() |
+|   | [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) | [풀이]() |
+|   | [최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941) | [풀이]() |
+
 ### 풀이 여부 체크
 | 문제                                              | bsc1154 | ggongchi765 | hhee00 | Jae-eun | DongheePaul | tildev |
 | -------------------------------------------------|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -79,3 +84,7 @@
 | 짝지어 제거하기 |✅|✅|✅|✅|||
 | 행렬테두리 회전하기 |✅|✅|||||
 | 피보나치 수 |✅|✅|✅|✅|||
+| 뉴스 클러스터링 |||||||
+| 단체사진 찍기 |||||||
+| 카펫 |||||||
+| 최솟값 만들기 |||||||
