@@ -1,12 +1,3 @@
-//
-//  programmers_17677.swift
-//  algo
-//
-//  Created by 이재은 on 02/09/2019.
-//  Copyright © 2019 이재은. All rights reserved.
-//
-
-import Foundation
 
 // programmers 17677 뉴스 클러스터링
 
