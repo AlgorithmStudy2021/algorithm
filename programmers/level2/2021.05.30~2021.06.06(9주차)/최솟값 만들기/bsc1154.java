@@ -1,5 +1,7 @@
 class Solution
 {
+	//최솟값을 구하기 위한 규칙은 각 배열에서 가장 작은 값과 가장 큰 값을 곱하는 것이다.
+	//그래서 우선 정렬을 통해 최솟값과 최댓값의 위치를 알아내야 한다.
    public static int solution(int []A, int []B)
 		    {
 		        int answer = 0;
