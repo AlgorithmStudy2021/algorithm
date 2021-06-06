@@ -47,6 +47,9 @@
 | **9** (21.5.28~6.6) | [뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.05.30~2021.06.06(9%EC%A3%BC%EC%B0%A8)/%EB%89%B4%EC%8A%A4%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81) |
 |   | [단체사진 찍기](https://programmers.co.kr/learn/courses/30/lessons/1835) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.05.30~2021.06.06(9%EC%A3%BC%EC%B0%A8)/%EB%8B%A8%EC%B2%B4%EC%82%AC%EC%A7%84%EC%B0%8D%EA%B8%B0) |
 |   | [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.05.30~2021.06.06(9%EC%A3%BC%EC%B0%A8)/%EC%B9%B4%ED%8E%AB) |
+|   | [최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.05.30~2021.06.06(9%EC%A3%BC%EC%B0%A8)/%EC%B5%9C%EC%86%9F%EA%B0%92%20%EB%A7%8C%EB%93%A4%EA%B8%B0) | [뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.05.30~2021.06.06(9%EC%A3%BC%EC%B0%A8)/%EB%89%B4%EC%8A%A4%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81) |
+|   | [단체사진 찍기](https://programmers.co.kr/learn/courses/30/lessons/1835) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.05.30~2021.06.06(9%EC%A3%BC%EC%B0%A8)/%EB%8B%A8%EC%B2%B4%EC%82%AC%EC%A7%84%EC%B0%8D%EA%B8%B0) |
+|   | [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.05.30~2021.06.06(9%EC%A3%BC%EC%B0%A8)/%EC%B9%B4%ED%8E%AB) |
 |   | [최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.05.30~2021.06.06(9%EC%A3%BC%EC%B0%A8)/%EC%B5%9C%EC%86%9F%EA%B0%92%20%EB%A7%8C%EB%93%A4%EA%B8%B0) |
 
 ### 풀이 여부 체크
@@ -88,3 +91,7 @@
 | 단체사진 찍기 ||✅||🙅‍♀️||||
 | 카펫 ||✅|✅|✅||||
 | 최솟값 만들기 |✅|✅|✅|✅||||
+| 점프와 순간이동 ||||||||
+| 영어 끝말잇기 ||||||||
+| 이진변환 반복하기 ||||||||
+| 삼각달팽이 ||||||||
