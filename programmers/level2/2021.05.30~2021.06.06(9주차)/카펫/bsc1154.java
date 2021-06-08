@@ -23,6 +23,3 @@ class Solution {
         return answer;
     }
 }
-
-
-출처: https://mozzioi.tistory.com/95 [이준생의 하루]
