@@ -51,7 +51,11 @@
 | **10** (21.6.7~6.13) | [점프와 순간이동](https://programmers.co.kr/learn/courses/30/lessons/12980) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.06.07~2021.06.13(10%EC%A3%BC%EC%B0%A8)/%EC%A0%90%ED%94%84%EC%99%80%20%EC%88%9C%EA%B0%84%EC%9D%B4%EB%8F%99) |
 |   | [영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.06.07~2021.06.13(10%EC%A3%BC%EC%B0%A8)/%EC%98%81%EC%96%B4%20%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0) |
 |   | [이진변환 반복하기](https://programmers.co.kr/learn/courses/30/lessons/70129) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.06.07~2021.06.13(10%EC%A3%BC%EC%B0%A8)/%EC%9D%B4%EC%A7%84%EB%B3%80%ED%99%98%20%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0) |
-|   | [삼각달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.06.07~2021.06.13(10%EC%A3%BC%EC%B0%A8)/%EC%82%BC%EA%B0%81%EB%8B%AC%ED%8C%BD%EC%9D%B4) |
+|   | [삼각달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.06.14~2021.06.20(11%EC%A3%BC%EC%B0%A8)/%EC%88%AB%EC%9E%90%EC%9D%98%20%ED%91%9C%ED%98%84) |
+| **11** (21.6.7~6.13) | [숫자의 표현](https://programmers.co.kr/learn/courses/30/lessons/12924) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.06.07~2021.06.13(10%EC%A3%BC%EC%B0%A8)/%EC%A0%90%ED%94%84%EC%99%80%20%EC%88%9C%EA%B0%84%EC%9D%B4%EB%8F%99) |
+|   | [땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.06.14~2021.06.20(11%EC%A3%BC%EC%B0%A8)/%EB%95%85%EB%94%B0%EB%A8%B9%EA%B8%B0) |
+|   | [파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.06.14~2021.06.20(11%EC%A3%BC%EC%B0%A8)/%ED%8C%8C%EC%9D%BC%EB%AA%85%20%EC%A0%95%EB%A0%AC) |
+|   | [압축](https://programmers.co.kr/learn/courses/30/lessons/17684) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.06.14~2021.06.20(11%EC%A3%BC%EC%B0%A8)/%EC%95%95%EC%B6%95) |
 
 ### 풀이 여부 체크
 | 문제                                              | bsc1154 | ggongchi765 | hhee00 | Jae-eun | DongheePaul | tildev | rlatmd0829 | itchoi | etc2 |
@@ -96,3 +100,7 @@
 | 영어 끝말잇기 |✅|✅|✅||||✅|||
 | 이진변환 반복하기 |✅|✅|✅|✅|||✅|✅||
 | 삼각달팽이 ||✅||||||✅||
+| 숫자의 표현 ||||||||||
+| 땅따먹기 ||||||||||
+| 파일명 정렬 ||||||||||
+| 압축 ||||||||||
