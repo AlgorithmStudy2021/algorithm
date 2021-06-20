@@ -56,7 +56,10 @@
 |   | [땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.06.14~2021.06.20(11%EC%A3%BC%EC%B0%A8)/%EB%95%85%EB%94%B0%EB%A8%B9%EA%B8%B0) |
 |   | [파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.06.14~2021.06.20(11%EC%A3%BC%EC%B0%A8)/%ED%8C%8C%EC%9D%BC%EB%AA%85%20%EC%A0%95%EB%A0%AC) |
 |   | [압축](https://programmers.co.kr/learn/courses/30/lessons/17684) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.06.14~2021.06.20(11%EC%A3%BC%EC%B0%A8)/%EC%95%95%EC%B6%95) |
-
+| **12** (21.6.7~6.13) | [수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/12924) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.06.14~2021.06.20(11%EC%A3%BC%EC%B0%A8)/%EC%88%AB%EC%9E%90%EC%9D%98%20%ED%91%9C%ED%98%84) |
+|   | [땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.06.14~2021.06.20(11%EC%A3%BC%EC%B0%A8)/%EB%95%85%EB%94%B0%EB%A8%B9%EA%B8%B0) |
+|   | [파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.06.14~2021.06.20(11%EC%A3%BC%EC%B0%A8)/%ED%8C%8C%EC%9D%BC%EB%AA%85%20%EC%A0%95%EB%A0%AC) |
+|   | [압축](https://programmers.co.kr/learn/courses/30/lessons/17684) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.06.14~2021.06.20(11%EC%A3%BC%EC%B0%A8)/%EC%95%95%EC%B6%95) |
 ### 풀이 여부 체크
 | 문제                                              | bsc1154 | ggongchi765 | hhee00 | Jae-eun | DongheePaul | tildev | rlatmd0829 | itchoi | etc2 |
 | -------------------------------------------------|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|---|
@@ -101,6 +104,10 @@
 | 이진변환 반복하기 |✅|✅|✅|✅|||✅|✅||
 | 삼각달팽이 ||✅||||||✅||
 | 숫자의 표현 |✅||✅|🙅‍♀️|||✅|✅||
+| 땅따먹기 |✅|||✅|||✅|✅||
+| 파일명 정렬 ||||||||||
+| 압축 |||✅|||||||
+| 수식최대화 |✅||✅|🙅‍♀️|||✅|✅||
 | 땅따먹기 |✅|||✅|||✅|✅||
 | 파일명 정렬 ||||||||||
 | 압축 |||✅|||||||
