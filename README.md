@@ -56,10 +56,10 @@
 |   | [땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.06.14~2021.06.20(11%EC%A3%BC%EC%B0%A8)/%EB%95%85%EB%94%B0%EB%A8%B9%EA%B8%B0) |
 |   | [파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.06.14~2021.06.20(11%EC%A3%BC%EC%B0%A8)/%ED%8C%8C%EC%9D%BC%EB%AA%85%20%EC%A0%95%EB%A0%AC) |
 |   | [압축](https://programmers.co.kr/learn/courses/30/lessons/17684) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.06.14~2021.06.20(11%EC%A3%BC%EC%B0%A8)/%EC%95%95%EC%B6%95) |
-| **12** (21.6.7~6.13) | [수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/12924) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.06.14~2021.06.20(11%EC%A3%BC%EC%B0%A8)/%EC%88%AB%EC%9E%90%EC%9D%98%20%ED%91%9C%ED%98%84) |
-|   | [땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.06.14~2021.06.20(11%EC%A3%BC%EC%B0%A8)/%EB%95%85%EB%94%B0%EB%A8%B9%EA%B8%B0) |
-|   | [파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.06.14~2021.06.20(11%EC%A3%BC%EC%B0%A8)/%ED%8C%8C%EC%9D%BC%EB%AA%85%20%EC%A0%95%EB%A0%AC) |
-|   | [압축](https://programmers.co.kr/learn/courses/30/lessons/17684) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.06.14~2021.06.20(11%EC%A3%BC%EC%B0%A8)/%EC%95%95%EC%B6%95) |
+| **12** (21.6.7~6.13) | [수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.06.21~2021.06.27(12%EC%A3%BC%EC%B0%A8)/%EC%88%98%EC%8B%9D%20%EC%B5%9C%EB%8C%80%ED%99%94) |
+|   | [캐시](https://programmers.co.kr/learn/courses/30/lessons/17680) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.06.21~2021.06.27(12%EC%A3%BC%EC%B0%A8)/%5B1%EC%B0%A8%5D%20%EC%BA%90%EC%8B%9C) |
+|   | [n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.06.21~2021.06.27(12%EC%A3%BC%EC%B0%A8)/%5B3%EC%B0%A8%5D%20n%EC%A7%84%EC%88%98%20%EA%B2%8C%EC%9E%84) |
+|   | [2개 이하로 다른 비트](https://programmers.co.kr/learn/courses/30/lessons/77885) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.06.21~2021.06.27(12%EC%A3%BC%EC%B0%A8)/2%EA%B0%9C%20%EC%9D%B4%ED%95%98%EB%A1%9C%20%EB%8B%A4%EB%A5%B8%20%EB%B9%84%ED%8A%B8) |
 ### 풀이 여부 체크
 | 문제                                              | bsc1154 | ggongchi765 | hhee00 | Jae-eun | DongheePaul | tildev | rlatmd0829 | itchoi | etc2 |
 | -------------------------------------------------|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|---|
@@ -106,8 +106,8 @@
 | 숫자의 표현 |✅||✅|🙅‍♀️|||✅|✅||
 | 땅따먹기 |✅|||✅|||✅|✅||
 | 파일명 정렬 ||||||||||
-| 압축 |||✅|||||||
-| 수식최대화 |✅||✅|🙅‍♀️|||✅|✅||
-| 땅따먹기 |✅|||✅|||✅|✅||
-| 파일명 정렬 ||||||||||
-| 압축 |||✅|||||||
+| 압축 ||||||||||
+| 수식최대화 ||||||||||
+| 캐시 ||||||||||
+| n진수 게임 ||||||||||
+| 2개 이하로 다른 비트 ||||||||||
