@@ -60,6 +60,11 @@
 |   | [캐시](https://programmers.co.kr/learn/courses/30/lessons/17680) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.06.21~2021.06.27(12%EC%A3%BC%EC%B0%A8)/%5B1%EC%B0%A8%5D%20%EC%BA%90%EC%8B%9C) |
 |   | [n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.06.21~2021.06.27(12%EC%A3%BC%EC%B0%A8)/%5B3%EC%B0%A8%5D%20n%EC%A7%84%EC%88%98%20%EA%B2%8C%EC%9E%84) |
 |   | [2개 이하로 다른 비트](https://programmers.co.kr/learn/courses/30/lessons/77885) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.06.21~2021.06.27(12%EC%A3%BC%EC%B0%A8)/2%EA%B0%9C%20%EC%9D%B4%ED%95%98%EB%A1%9C%20%EB%8B%A4%EB%A5%B8%20%EB%B9%84%ED%8A%B8) |
+| **13** (21.6.28~7.4) | [방문 길이](https://programmers.co.kr/learn/courses/30/lessons/49994) | [풀이]() |
+|   | [방금그곡](https://programmers.co.kr/learn/courses/30/lessons/17683) | [풀이]() |
+|   | [배달](https://programmers.co.kr/learn/courses/30/lessons/12978) | [풀이]() |
+|   | [후보키](https://programmers.co.kr/learn/courses/30/lessons/42890) | [풀이]() |
+
 ### 풀이 여부 체크
 | 문제                                              | bsc1154 | ggongchi765 | hhee00 | Jae-eun | DongheePaul | tildev | rlatmd0829 | itchoi | etc2 |
 | -------------------------------------------------|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|---|
@@ -111,3 +116,7 @@
 | 캐시 ||✅||✅|||✅|||
 | n진수 게임 ||✅||✅||||||
 | 2개 이하로 다른 비트 |||||||✅|||
+| 방문 길이 ||||||||||
+| 방금그곡 ||||||||||
+| 배달 ||||||||||
+| 후보키 ||||||||||
