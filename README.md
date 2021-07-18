@@ -64,6 +64,11 @@
 |   | [방금그곡](https://programmers.co.kr/learn/courses/30/lessons/17683) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.06.28~2021.07.04(13%EC%A3%BC%EC%B0%A8)/%EB%B0%A9%EA%B8%88%EA%B7%B8%EA%B3%A1) |
 |   | [배달](https://programmers.co.kr/learn/courses/30/lessons/12978) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.06.28~2021.07.04(13%EC%A3%BC%EC%B0%A8)/%EB%B0%B0%EB%8B%AC) |
 |   | [후보키](https://programmers.co.kr/learn/courses/30/lessons/42890) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.06.28~2021.07.04(13%EC%A3%BC%EC%B0%A8)/%ED%9B%84%EB%B3%B4%ED%82%A4) |
+| **15** (21.7.12~7.18) | [카카오프렌즈 컬러링북](https://programmers.co.kr/learn/courses/30/lessons/1829) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.07.12~2021.07.18(15%EC%A3%BC%EC%B0%A8)%20/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%94%84%EB%A0%8C%EC%A6%88%20%EC%BB%AC%EB%9F%AC%EB%A7%81%EB%B6%81) |
+|   | [더맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.07.12~2021.07.18(15%EC%A3%BC%EC%B0%A8)%20/%EB%8D%94%EB%A7%B5%EA%B2%8C) |
+|   | [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.07.12~2021.07.18(15%EC%A3%BC%EC%B0%A8)%20/%ED%83%80%EA%B2%9F%EB%84%98%EB%B2%84) |
+|   | [게입맵 최단거리](https://programmers.co.kr/learn/courses/30/lessons/1844) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.07.12~2021.07.18(15%EC%A3%BC%EC%B0%A8)%20/%EA%B2%8C%EC%9E%84%EB%A7%B5%20%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC)
+
 
 ### 풀이 여부 체크
 | 문제                                              | bsc1154 | ggongchi765 | hhee00 | Jae-eun | DongheePaul | tildev | rlatmd0829 | itchoi | etc2 |
@@ -120,3 +125,7 @@
 | 방금그곡 ||||||||||
 | 배달 ||||||||||
 | 후보키 |||||||||| 
+| 카카오프렌즈 컬러링북 ||||🙅‍♀||||||
+| 더맵게 ||||🙅‍♀||||||
+| 타겟 넘버 ||||||||||
+| 게임맵 최단거리 |||||||||| 
