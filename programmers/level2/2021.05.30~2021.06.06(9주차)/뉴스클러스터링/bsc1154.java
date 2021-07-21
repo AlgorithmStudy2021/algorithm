@@ -32,7 +32,7 @@ class Solution {
 			if(Character.isLetter(a) && Character.isLetter(b)) {
 				list2.add(Character.toString(a) + Character.toString(b));
 			}
-        }
+        } 
 
 		// 중복 원소 처리를 위해 두 집합 정렬
 		Collections.sort(list1);
