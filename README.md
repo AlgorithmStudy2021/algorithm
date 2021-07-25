@@ -68,6 +68,10 @@
 |   | [더맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.07.12~2021.07.18(15%EC%A3%BC%EC%B0%A8)%20/%EB%8D%94%EB%A7%B5%EA%B2%8C) |
 |   | [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.07.12~2021.07.18(15%EC%A3%BC%EC%B0%A8)%20/%ED%83%80%EA%B2%9F%EB%84%98%EB%B2%84) |
 |   | [게입맵 최단거리](https://programmers.co.kr/learn/courses/30/lessons/1844) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.07.12~2021.07.18(15%EC%A3%BC%EC%B0%A8)%20/%EA%B2%8C%EC%9E%84%EB%A7%B5%20%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC)
+| **16** (21.7.19~7.25) | [뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.07.19~2021.07.25(16%EC%A3%BC%EC%B0%A8)/%EB%89%B4%EC%8A%A4%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81) |
+|   | [단체사진 찍기](https://programmers.co.kr/learn/courses/30/lessons/1835) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.07.19~2021.07.25(16%EC%A3%BC%EC%B0%A8)/%EB%8B%A8%EC%B2%B4%EC%82%AC%EC%A7%84%20%EC%B0%8D%EA%B8%B0) |
+|   | [순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.07.19~2021.07.25(16%EC%A3%BC%EC%B0%A8)/%EC%88%9C%EC%9C%84%20%EA%B2%80%EC%83%89) |
+|   | [헹렬테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.07.19~2021.07.25(16%EC%A3%BC%EC%B0%A8)/%ED%96%89%EB%A0%AC%ED%85%8C%EB%91%90%EB%A6%AC%20%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0)
 
 
 ### 풀이 여부 체크
@@ -129,4 +133,7 @@
 | 더맵게 ||||🙅‍♀||||||
 | 타겟 넘버 ||||✅||||||
 | 게임맵 최단거리 ||||🙅‍♀||||||
-
+| 뉴스 클러스터링 |||||||||
+| 단체사진 찍기 ||||||||||
+| 순위 검색 ||||||||||
+| 행렬테두리 회전하기 ||||||||||
