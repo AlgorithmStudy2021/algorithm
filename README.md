@@ -72,6 +72,10 @@
 |   | [단체사진 찍기](https://programmers.co.kr/learn/courses/30/lessons/1835) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.07.19~2021.07.25(16%EC%A3%BC%EC%B0%A8)/%EB%8B%A8%EC%B2%B4%EC%82%AC%EC%A7%84%20%EC%B0%8D%EA%B8%B0) |
 |   | [순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.07.19~2021.07.25(16%EC%A3%BC%EC%B0%A8)/%EC%88%9C%EC%9C%84%20%EA%B2%80%EC%83%89) |
 |   | [헹렬테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.07.19~2021.07.25(16%EC%A3%BC%EC%B0%A8)/%ED%96%89%EB%A0%AC%ED%85%8C%EB%91%90%EB%A6%AC%20%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0)
+| **17** (21.7.26~8.01) | [n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.07.26~2021.08.01(17%EC%A3%BC%EC%B0%A8)/n%EC%A7%84%EC%88%98%20%EA%B2%8C%EC%9E%84) |
+|   | [압축](https://programmers.co.kr/learn/courses/30/lessons/17684) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.07.26~2021.08.01(17%EC%A3%BC%EC%B0%A8)/%EC%95%95%EC%B6%95) |
+|   | [캐시](https://programmers.co.kr/learn/courses/30/lessons/17680) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.07.26~2021.08.01(17%EC%A3%BC%EC%B0%A8)/%EC%BA%90%EC%8B%9C) |
+|   | [파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.07.26~2021.08.01(17%EC%A3%BC%EC%B0%A8)/%ED%8C%8C%EC%9D%BC%EB%AA%85%20%EC%A0%95%EB%A0%AC)
 
 
 ### 풀이 여부 체크
@@ -137,3 +141,7 @@
 | 단체사진 찍기 ||||🙅‍♀||||||
 | 순위 검색 ||||||||||
 | 행렬테두리 회전하기 ||||✅||||||
+| n진수 게임 ||||||||||
+| 압축 ||||||||||
+|  ||||||||||
+| 파일명 정렬 ||||||||||
