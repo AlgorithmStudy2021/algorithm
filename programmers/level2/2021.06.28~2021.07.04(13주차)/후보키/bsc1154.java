@@ -23,13 +23,13 @@ class Solution {
         return answer;
     }
 
-    public static void makeSet(int index, int target, int count, HashSet<Integer> set) {//0번째 로우의 카운트
+    public static void makeSet(int index, int target, int count, HashSet<Integer> set) {//후보키 조합
 
         if(count == target) {//검사할 타겟 로우와 카운팅이 같으면
             if(!isUnique(set)) {
                 return;
             }
-            for(HashSet<Integer> key: candidateKey) {
+            for(HashSet<Integer> key: candidateKey) {//후보키 조합 리스트
                 if(set.containsAll(key)) {//후보키조합에 포함되어잇으면 종료
                     return;
                 }
@@ -50,7 +50,7 @@ class Solution {
     public static boolean isUnique(HashSet<Integer> set) {
 
         ArrayList<String> list = new ArrayList<String>();
-        for(int i = 0; i < Table.length; i++) { //5
+        for(int i = 0; i < Table.length; i++) { //로우 개수
             String temp = "";
             for(int index: set) {//한 로우의 요소를 하나씩 누적
                 temp+= Table[i][index];
