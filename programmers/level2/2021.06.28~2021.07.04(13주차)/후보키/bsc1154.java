@@ -55,8 +55,8 @@ class Solution {
             for(int index: set) {//한 로우의 요소를 하나씩 누적
                 temp+= Table[i][index];
             }
-            if(!list.contains(temp)) {//해당 조합이 겹치는지 검사
-                list.add(temp);//안겹치면 리스트에 넣는다.
+            if(!list.contains(temp)) {//해당 조합이 포함되는지 검사
+                list.add(temp);//안 포함되면 리스트에 넣음
             }else {
                 return false;
             }
