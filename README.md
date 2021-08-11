@@ -76,8 +76,12 @@
 |   | [압축](https://programmers.co.kr/learn/courses/30/lessons/17684) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.07.26~2021.08.01(17%EC%A3%BC%EC%B0%A8)/%EC%95%95%EC%B6%95) |
 |   | [캐시](https://programmers.co.kr/learn/courses/30/lessons/17680) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.07.26~2021.08.01(17%EC%A3%BC%EC%B0%A8)/%EC%BA%90%EC%8B%9C) |
 |   | [파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.07.26~2021.08.01(17%EC%A3%BC%EC%B0%A8)/%ED%8C%8C%EC%9D%BC%EB%AA%85%20%EC%A0%95%EB%A0%AC)
-
-
+| **18** (21.8.02~8.08) | [2개이하로 다른비트](https://programmers.co.kr/learn/courses/30/lessons/77885) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.08.02~2021.08.08(18%EC%A3%BC%EC%B0%A8)/2%EA%B0%9C%EC%9D%B4%ED%95%98%EB%A1%9C%20%EB%8B%A4%EB%A5%B8%20%EB%B9%84%ED%8A%B8) |
+|   | [방문길이](https://programmers.co.kr/learn/courses/30/lessons/49994) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.08.02~2021.08.08(18%EC%A3%BC%EC%B0%A8)/%EB%B0%A9%EB%AC%B8%EA%B8%B8%EC%9D%B4) |
+|   | [배달](https://programmers.co.kr/learn/courses/30/lessons/12978) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.08.02~2021.08.08(18%EC%A3%BC%EC%B0%A8)/%EB%B0%B0%EB%8B%AC) |
+|   | [후보키](https://programmers.co.kr/learn/courses/30/lessons/42890) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.08.02~2021.08.08(18%EC%A3%BC%EC%B0%A8)/%ED%9B%84%EB%B3%B4%ED%82%A4)
+| **19** (21.8.09~8.15) | [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.08.09~2021.08.15(19%EC%A3%BC%EC%B0%A8)/%EB%94%94%EC%8A%A4%ED%81%AC%20%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC) |
+|   | [정수삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105) | [풀이](https://github.com/AlgorithmStudy2021/algorithm/tree/main/programmers/level2/2021.08.09~2021.08.15(19%EC%A3%BC%EC%B0%A8)/%EC%A0%95%EC%88%98%20%EC%82%BC%EA%B0%81%ED%98%95) |
 ### 풀이 여부 체크
 | 문제                                              | bsc1154 | ggongchi765 | - | Jae-eun | DongheePaul | tildev | rlatmd0829 | itchoi | etc2 |
 | -------------------------------------------------|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|---|
