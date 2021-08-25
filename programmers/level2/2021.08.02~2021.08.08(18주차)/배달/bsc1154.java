@@ -37,10 +37,3 @@ public int solution(int N, int[][] road, int K) {
         
         return count;
     }
-
-
-출처: https://tosuccess.tistory.com/83 [EI_HJ]
-
-출처: https://tosuccess.tistory.com/83 [EI_HJ]
-
-출처: https://tosuccess.tistory.com/83 [EI_HJ]
